@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Nykaa Lipstick", "category": "Makeup", "image": "/images/productseven.jpeg" },
+  { "id": 2, "name": "Lakme Eyeliner", "category": "Makeup", "image": "/images/productseven.jpeg" },
+  { "id": 3, "name": "L'Oreal Shampoo", "category": "Haircare", "image": "/images/productseven.jpeg" },
+  { "id": 4, "name": "Maybelline Mascara", "category": "Makeup", "image": "/images/productseven.jpeg" }
+]
